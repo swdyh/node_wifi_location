@@ -1,0 +1,63 @@
+eth1      Scan completed :
+          Cell 02 - Address: c0:8a:de:c3:6d:6c
+                    ESSID:"xxx"
+                    Mode:Managed
+                    Frequency:2.452 GHz (Channel 9)
+                    Quality:1/5  Signal level:-86 dBm  Noise level:-92 dBm
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : CCMP TKIP
+                        Authentication Suites (1) : PSK
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : CCMP TKIP
+                        Authentication Suites (1) : PSK
+                    Encryption key:on
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s; 6 Mb/s; 9 Mb/s
+                              12 Mb/s; 48 Mb/s
+          Cell 03 - Address: c0:8a:de:83:6d:6c
+                    ESSID:"yyy"
+                    Mode:Managed
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality:1/5  Signal level:-86 dBm  Noise level:-92 dBm
+                    Encryption key:on
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s; 6 Mb/s; 9 Mb/s
+                              12 Mb/s; 48 Mb/s
+          Cell 04 - Address: c0:8a:de:43:6d:6c
+                    ESSID:"RBP"
+                    Mode:Managed
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality:1/5  Signal level:-80 dBm  Noise level:-92 dBm
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : PSK
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : PSK
+                    Encryption key:on
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 9 Mb/s
+                              18 Mb/s; 36 Mb/s; 54 Mb/s; 6 Mb/s; 12 Mb/s
+                              24 Mb/s; 48 Mb/s
+          Cell 05 - Address: c0:8a:de:03:6d:6c
+                    ESSID:"zzz"
+                    Mode:Managed
+                    Frequency:2.412 GHz (Channel 1)
+                    Quality:1/5  Signal level:-86 dBm  Noise level:-91 dBm
+                    Encryption key:on
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s; 6 Mb/s; 9 Mb/s
+                              12 Mb/s; 48 Mb/s
+          Cell 06 - Address: 50:a7:33:b5:7e:bc
+                    ESSID:"aaa"
+                    Mode:Managed
+                    Frequency:2.437 GHz (Channel 6)
+                    Quality:2/5  Signal level:-74 dBm  Noise level:-92 dBm
+                    Encryption key:on
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 18 Mb/s
+                              24 Mb/s; 36 Mb/s; 54 Mb/s; 6 Mb/s; 9 Mb/s
+                              12 Mb/s; 48 Mb/s
+

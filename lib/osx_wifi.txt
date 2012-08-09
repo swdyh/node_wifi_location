@@ -1,0 +1,25 @@
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                at_STARBUCKS_Wi2 c0:8a:de:c3:6d:6c -56  124,+1  Y  JP NONE
+                        au_Wi-Fi c0:8a:de:83:6d:6c -57  124,+1  Y  JP WPA2(PSK/AES/AES) 
+                        Wi2_club c0:8a:de:43:6d:6c -57  124,+1  Y  JP WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                             Wi2 c0:8a:de:03:6d:6c -57  124,+1  Y  JP NONE
+                 Wi2premium_club 50:a7:33:b5:7e:bc -76  100,+1  Y  JP WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                      Wi2premium 50:a7:33:75:7e:bc -76  100,+1  Y  JP NONE
+                        au_Wi-Fi 50:a7:33:35:7e:bc -76  100,+1  Y  JP WPA2(PSK/AES/AES) 
+                        NTT-SPOT 00:0f:61:b4:dd:c4 -70  44      N  -- WEP
+                          wifine 00:0f:61:b4:dd:c3 -71  44      N  -- NONE
+                          docomo 00:0f:61:b4:dd:c0 -70  44      N  -- WEP
+                        NTT-SPOT 00:0f:61:5a:31:56 -59  1       N  -- WEP
+                          wifine 00:0f:61:5a:31:55 -58  1       N  -- NONE
+                      FLETS-SPOT 00:0f:61:5a:31:51 -58  1       N  -- WEP
+                          docomo 00:0f:61:5a:31:50 -58  1       N  -- WEP
+                    0001softbank c2:f8:da:ce:ad:59 -60  13      Y  JP NONE
+                             FON c0:f8:da:ce:ad:59 -60  13      Y  JP NONE
+                 Wi2premium_club 50:a7:33:b5:7e:b8 -69  11      Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                      Wi2premium 50:a7:33:75:7e:b8 -70  11      Y  -- NONE
+                        au_Wi-Fi 50:a7:33:35:7e:b8 -71  11      Y  -- WPA2(PSK/AES/AES) 
+               GP01-202BC141FF3F 20:2b:c1:41:ff:3f -74  11      N  JP WEP
+                at_STARBUCKS_Wi2 c0:8a:de:c3:6d:68 -55  6       Y  -- NONE
+                        au_Wi-Fi c0:8a:de:83:6d:68 -56  6       Y  -- WPA2(PSK/AES/AES) 
+                        Wi2_club c0:8a:de:43:6d:68 -56  6       Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                             Wi2 c0:8a:de:03:6d:68 -55  6       Y  -- NONE
