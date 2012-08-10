@@ -1,6 +1,6 @@
 {
   "name": "wifi_location",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find a current location by surrounding WiFi and Google Map API. A port of wifi_location(https://github.com/shokai/wifi_location) to Node.js.",
   "main": "lib/wifi_location.js",
   "scripts": {
