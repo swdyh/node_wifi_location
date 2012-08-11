@@ -5,10 +5,8 @@ var wifiLocation = require(path.join(__dirname, '..', 'lib', 'wifi_location'))
 
 function testParseAirpotOutput(t) {
     var d = wifiLocation.parseAirportOutput(t)
-    assert.equal(d.length, 24)
-    assert.ok(d[0].SSID)
-    assert.ok(d[0].BSSID)
-    assert.ok(d[0].RSSI)
+    assert.ok(d.length > 1)
+    assert.ok(d.every(function(i) { return i.SSID && i.BSSID && i.RSSI }))
 }
 
 function testParseIwlistOutput(t) {
@@ -33,6 +31,7 @@ function loadOutputText(file) {
 }
 
 testParseAirpotOutput(loadOutputText('osx_airport_output.txt'))
+testParseAirpotOutput(loadOutputText('osx_airport_output_ibss.txt'))
 testParseIwlistOutput(loadOutputText('linux_iwlist_output.txt'))
 testParseIwlistOutput(loadOutputText('linux_iwlist_output_eq.txt'))
 testWifiTowers(loadOutputText('osx_airport_output.txt'), 'darwin')
