@@ -1,0 +1,17 @@
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        au_Wi-Fi 50:a7:33:1d:e5:bc -81  60,+1   Y  JP WPA2(PSK/AES/AES) 
+                            0033 00:00:eb:99:03:b0 -68  36      N  JP WEP
+                            0033 00:00:eb:99:03:a0 -62  1       N  JP WEP
+                    URoad-11B2A1 00:1d:93:11:b2:a1 -79  1,+1    Y  JP WPA(PSK/TKIP/TKIP) 
+                    001601579CDA 00:16:01:57:9c:db -85  13      Y  -- WEP
+                             FON c0:f8:da:d3:15:b5 -66  6       Y  JP NONE
+                         SWS1day c6:f8:da:d3:bc:6d -50  7       Y  JP NONE
+                    0001softbank c2:f8:da:d3:bc:6d -50  7       Y  JP NONE
+                             FON c0:f8:da:d3:bc:6d -51  7       Y  JP NONE
+                    0001softbank c2:f8:da:d3:15:b5 -67  6       Y  JP NONE
+                  AndroidAP11237 04:46:65:46:95:9c -59  6       Y  -- WPA2(PSK/AES/AES) 
+                      GP02-91651 bc:76:70:39:81:8e -52  6       Y  JP WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                     SII-IS-Lips 5a:a8:3a:bd:d5:ec -84  1       N  -- WEP
