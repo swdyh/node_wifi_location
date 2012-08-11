@@ -11,18 +11,14 @@ function testParseAirpotOutput(t) {
 
 function testParseIwlistOutput(t) {
     var d = wifiLocation.parseIwlistOutput(t)
-    assert.equal(d.length, 5)
-    assert.ok(d[0].Address)
-    assert.ok(d[0].ESSID)
-    assert.ok(d[0]['Signal level'])
+    assert.ok(d.length > 1)
+    assert.ok(d.every(function(i) { return i.ESSID && i.Address && i['Signal level'] }))
 }
 
 function testWifiTowers(t, platform) {
     wifiLocation.wifiTowers({ t: t, platform: platform }, function(err, val) {
-        assert(val.length > 1)
-        assert.ok(val[0].ssid)
-        assert.ok(val[0].mac_address)
-        assert.ok(val[0].signal_strength)
+        assert.ok(val.length > 1)
+        assert.ok(val.every(function(i) { return i.ssid && i.mac_address && i.signal_strength }))
     })
 }
 
